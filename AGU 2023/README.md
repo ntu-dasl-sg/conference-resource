@@ -1,5 +1,8 @@
 # Conference abstracts:
 
+Presented at the American Geophysical Union (AGU) 2023 Annual Meeting
+Disaster Analytics for Society Lab
+
 ## Non-asset-based Risk Models for Quantifying Future Climate Risk
 Authors: 
 Jeanette Choong(1), David Lallemant(1) and Dennis Wagenaar(2),
